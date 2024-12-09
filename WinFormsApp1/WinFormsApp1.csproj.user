@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Admin_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Announcement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnnouncementView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Assignment_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Assignmnet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bookmark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="enrolledStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="enrollTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LectureNotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Notes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuizBookMark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuizStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentNotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
